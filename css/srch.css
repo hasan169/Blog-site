@@ -1,0 +1,19 @@
+table{
+        margin-left:30%;
+	margin-top:50px;
+	background-color:white;
+	min-width:500px;
+}
+button{
+	margin-left:100px;
+}
+tr{
+	min-width:500px;	
+	height:100px;
+}
+a{
+	margin-right:10px;
+}
+img{
+	margin-left:10px;
+}

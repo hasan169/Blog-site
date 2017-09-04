@@ -1,0 +1,30 @@
+#cmnt{
+	font-family: sans-serif;
+	overflow:hidden;
+}
+h5{
+	margin-left:5px;
+}
+h4{
+	margin-left:5px;
+}
+#div{
+	max-width:550px;
+	margin-left:30%;
+	margin-top:50px;
+}
+#btn{
+	float:right;
+	margin-right:5px;
+}
+#ldv{
+	word-wrap: break-word;	
+}
+span{
+    opacity: 0;
+	float:right;
+	margin-right:5px;
+}
+span:hover {
+    opacity: 1;
+}

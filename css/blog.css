@@ -1,0 +1,42 @@
+body{
+
+	background-color: rgb(239,243,244);
+	background-color: #16A086;
+}
+
+.navbar{
+	background-color: #3B3C3D;
+}
+
+/*.navbar-default{
+	background-color: blue;
+}*/
+
+.bt-lg{
+	margin-top:10px;
+	border-radius:5px;
+	height:40px;
+	width:240px;
+}
+.reg{
+	display:inline;
+}
+#wpass{
+	 visibility: hidden;
+}
+#user{
+	 visibility: hidden;
+}
+#mailinfo{
+	 visibility: hidden;
+}
+#mpass{
+	 visibility: hidden;
+}
+#dob{
+	 visibility: hidden;
+}
+
+#prd{
+	visibility:hidden;
+}

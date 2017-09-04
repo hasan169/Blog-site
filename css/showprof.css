@@ -1,0 +1,43 @@
+span{
+    opacity: 0;
+	float:right;
+	margin-right:5px;
+}
+span:hover {
+    opacity: 1;
+}
+h4{
+	margin-left:5px;
+}
+td{
+	max-width:525px;
+}
+#cmt{
+	font-family: sans-serif;
+	margin-left:26.3%;
+	width:38%;
+}
+
+#cmnt{
+	font-family: sans-serif;
+	overflow:hidden;
+}
+h5{
+	margin-left:5px;
+}
+.divide{
+	width:100%;
+	height:100%;
+}
+.left-div{
+	width:29%;
+	display:inline;
+	float:left;
+	height:100%;
+}
+.right-div{
+	width:71%;
+	display:inline;
+	float:right;
+	height:100%;
+}
