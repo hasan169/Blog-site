@@ -7,7 +7,6 @@
     <title>Blog</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
 	<link href="css/blog.css" rel="stylesheet">
-
   </head>
   <body>
 	<?php
@@ -59,7 +58,6 @@
 				</div>
 			</div>
 		</div>
-	
 	</div>
 	<div class="navbar navbar-inverse navbar-fixed-bottom">
 		<div class="container">
